@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\INDIA\Desktop\Skillovila\Data Structures & Algorithms Problems\.metadata\.plugins\org.eclipse.jdt.core
+1638787758.index
+1195455883.index
+1865797976.index
